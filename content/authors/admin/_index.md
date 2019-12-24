@@ -49,12 +49,16 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Ziha7x8AAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4704-1064
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  link: https://github.com/Middleton-Lab
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
