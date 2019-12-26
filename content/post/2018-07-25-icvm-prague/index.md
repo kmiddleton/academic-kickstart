@@ -23,11 +23,11 @@ RE, Middleton KM)
 
 
 <figure>
-<img src="/img/ICVM-2019-1.jpg">
+<img src="ICVM-2019-1.jpg">
 <figcaption>IA past (Amanda Smolinsky, Henry Tsai, and Eva Herbst) and present (Carol Ward, Kevin Middleton, Kaleb Sellers, Casey Holliday, Alec Wilken, and Emily Lessner)</figcaption>
 </figure>
     
 <figure>
-<img src="/img/ICVM-2019-2.jpg">
+<img src="ICVM-2019-2.jpg">
 <figcaption>IA and friends</figcaption>
 </figure>

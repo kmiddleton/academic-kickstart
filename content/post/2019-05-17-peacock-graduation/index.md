@@ -13,13 +13,13 @@ Congratulations to [Dr. Sarah Peacock](https://www.middletonlab.org/authors/peac
 Sarah is starting a position as an Assistant Teaching Professor at Northeastern University in January, 2020.
 
 <figure>
-<img src="/img/peacock-grad1.jpg">
+<img src="peacock-grad1.jpg">
 </figure>
     
 <figure>
-<img src="/img/peacock-grad2.jpg">
+<img src="peacock-grad2.jpg">
 </figure>
 
 <figure>
-<img src="/img/peacock-defense.jpg">
+<img src="peacock-defense.jpg">
 </figure>
