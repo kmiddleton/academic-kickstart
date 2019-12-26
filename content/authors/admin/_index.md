@@ -18,7 +18,7 @@ organizations:
   url: "https://medicine.missouri.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include functional morphology, anatomy, biomechanics, Bayesian inference, and statistical teaching.
+bio:
 
 interests:
 - Functional morphology
@@ -70,6 +70,11 @@ email: "middletonk@missouri.edu"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
+
 ---
 
 The lab is part of the [Integrative Anatomy](http://anatomy.missouri.edu/) group in the [Department of Pathology and Anatomical Sciences](http://medicine2.missouri.edu/pathology/) at the [University of Missouri School of Medicine](https://medicine.missouri.edu/).
+
+Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.
+
+From 2007-2012, I was an assistant and then associate professor in the [Department of Biology](http://biology.csusb.edu) at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the [Department of Ecology and Evolutionary Biology](http://www.brown.edu/academics/ecology-and-evolutionary-biology/) at Brown University. Here's a link to my dissertation: [Morphology, evolution, and function of the avian hallux](http://www.worldcat.org/title/morphology-evolution-and-function-of-the-avian-hallux/oclc/54004056).

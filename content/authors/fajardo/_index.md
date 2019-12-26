@@ -1,37 +1,33 @@
 ---
 # Display name
-name: Sarah Peacock
+name: Josh Fajardo
 
 # Username (this should match the folder name)
 authors:
-- peacock
+- fajardo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD, 2019
+role: Undergraduate researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Assistant Teaching Professor, Northeastern University
+- name: University of Missouri
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 interests:
-- Effects of light on bone phenotypes
-- Modern human variation
-- Human cranio-facial morphology
-- Forensic anthropology
+- Locomotor kinematics in mice
+- Machine learning
 
 education:
   courses:
-  - course: MS Forensic Anthropology
-    institution: Boston University
-  - course: BS Biological Anthropology and Biology
-    institution: George Washington University
+  - course: BS Biology
+    institution: University of Missouri
 
 social:
 # - icon: envelope
@@ -40,13 +36,13 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=Ziha7x8AAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-1064-9482
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0003-0328-9682
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Alumni
+- Undergraduate Researchers
 ---
 
