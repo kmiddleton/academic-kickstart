@@ -57,3 +57,15 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<figure>
+<img src="2018_Peacock_EA_Fig_2.png">
+</figure>
+
+<figure>
+<img src="2018_Peacock_EA_Fig_4.png">
+</figure>
+
+<figure>
+<img src="2018_Peacock_EA_Fig_5.png">
+</figure>
