@@ -10,7 +10,7 @@ image:
 
 Code for most lab projects is available either on the [lab github page](https://github.com/Middleton-Lab) or [my personal GitHub page](https://github.com/kmiddleton).
 
-Some of the more potentially useful R packages are described below.
+A few of the more potentially useful R packages are described below.
 
 - [abd](#analysis-of-biological-data-abd): Data for *Analysis of Biological Data*
 - [jnt](#johnsonneyman-technique-jnt): Johnson-Neyman Technique
