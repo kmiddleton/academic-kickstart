@@ -57,3 +57,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<figure>
+<img src="nano_plot.jpg" />
+</figure>
