@@ -1,5 +1,5 @@
 ---
-title: "Science on Wheels"
+title: "Amanda presents at Science on Wheels"
 summary: ""
 abstract: ""
 date: 2017-10-12

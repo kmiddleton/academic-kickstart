@@ -4,6 +4,7 @@ summary: ""
 abstract: ""
 date: 2019-05-17
 image:
+  preview_only: true
   caption: ''
   focal_point: Smart
 ---

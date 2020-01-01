@@ -14,8 +14,8 @@ role: MS, 2012
 
 # Organizations/Affiliations
 organizations:
-- name: ""
-  url: ""
+- name: "ITW David Speer Academy - Noble Charter School"
+  url: "https://nobleschools.org/speer/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Endocrinology
+  - course: PhD Biomedical Sciences
     institution: University of Chicago
   - course: MS Biology
     institution: California State University, San Bernardino

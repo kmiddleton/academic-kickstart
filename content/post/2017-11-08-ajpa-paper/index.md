@@ -1,6 +1,6 @@
 ---
 title: "Forthcoming AJPA paper"
-summary: ""
+summary: "Sarah Peacock has a paper coming out in AJPA"
 abstract: ""
 date: 2017-11-08
 image:

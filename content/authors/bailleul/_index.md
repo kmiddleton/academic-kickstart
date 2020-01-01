@@ -21,18 +21,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-# interests:
-# - Effects of light on bone phenotypes
-# - Modern human variation
-# - Human cranio-facial morphology
-# - Forensic anthropology
-# 
-# education:
-#   courses:
-#   - course: MS Forensic Anthropology
-#     institution: Boston University
-#   - course: BS Biological Anthropology and Biology
-#     institution: George Washington University
+interests:
+- Paleontology
+- Histology
+- Identification of tissues in the fossil record
+
+education:
+  courses:
+  - course: PhD Earth Sciences
+    institution: Montana State University
+  - course: MS Systematics-Evolution-Paleobiodiversity
+    institution: Université Paris VI, Pierre et Marie Curie, Paris, France
 
 social:
 # - icon: envelope
