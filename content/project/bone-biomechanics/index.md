@@ -2,7 +2,7 @@
 title: "Bone Structure and Biomechanics"
 summary: "Effects of exercise and artificial selection on skeletal morphology and bone mechanics"
 abstract: ""
-date: 2012-01-01
+date: 2020-01-01
 image:
   caption: ''
   focal_point: Smart
