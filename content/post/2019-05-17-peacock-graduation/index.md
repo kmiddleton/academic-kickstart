@@ -3,6 +3,7 @@ title: "Congratulations Sarah"
 summary: ""
 abstract: ""
 date: 2019-05-17
+lastmod: 2019-05-17
 image:
   preview_only: true
   caption: ''
@@ -16,7 +17,7 @@ Sarah is starting a position as an Assistant Teaching Professor at Northeastern 
 <figure>
 <img src="peacock-grad1.jpg">
 </figure>
-    
+
 <figure>
 <img src="peacock-grad2.jpg">
 </figure>
