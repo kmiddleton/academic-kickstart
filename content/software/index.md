@@ -15,7 +15,7 @@ A few of the more potentially useful R packages are described below.
 - [abd](#analysis-of-biological-data-abd): Data for *Analysis of Biological Data*
 - [jnt](#johnsonneyman-technique-jnt): Johnson-Neyman Technique
 - [MuscleTernary](#ternary-plots-for-3d-data-muscleternary): Ternary plots for 3D data
-- [binning](binning-for-mouse-wheel-activity-data-binning): Functions for processing mouse activity data
+- [binning](#binning-for-mouse-wheel-activity-data-binning): Functions for processing mouse activity data
 
 <hr />
 
