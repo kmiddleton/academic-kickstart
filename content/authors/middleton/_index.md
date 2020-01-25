@@ -32,7 +32,7 @@ education:
   - course: PhD in Ecology & Evolutionary Biology
     institution: Brown University
     year: 2003
-  - course: BS is Biology
+  - course: BS in Biology
     institution: Wake Forest University
     year: 1995
 
